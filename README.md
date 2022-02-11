@@ -1,8 +1,6 @@
 ### Hi there 👋, Hey there, I'm CADIndie!
 #### Just another dev doing dev stuff 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: Electron JS/ C# / JS / HTML / Java / Python
 
 - 🔭 I’m currently working on SWAY & QCXR 
