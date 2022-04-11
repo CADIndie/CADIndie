@@ -5,7 +5,7 @@ Skills: C++ / NodeJS/JS / HTML / Java / Python
 
 - 🔭 I’m currently working on Menace & QCXR 
 - 🌱 I’m currently learning Java 
-- 🤔 I’m looking for help with Electron JS 
+- 🤔 I’m looking for help with C++ 
 - 💬 Ask me about My favorite project 
 - 📫 How to reach me: Discord @CtrlAltDelete#7161 
 - 😄 Pronouns: He/Him 
