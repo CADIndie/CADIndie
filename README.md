@@ -3,7 +3,7 @@
 
 Skills: Electron JS/ C# / JS / HTML / Java / Python
 
-- 🔭 I’m currently working on SWAY & QCXR 
+- 🔭 I’m currently working on Menace & QCXR 
 - 🌱 I’m currently learning Java 
 - 🤔 I’m looking for help with Electron JS 
 - 💬 Ask me about My favorite project 
