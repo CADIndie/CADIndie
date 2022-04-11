@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm CADIndie!
 #### Just another dev doing dev stuff 
 
-Skills: Electron JS/ C# / JS / HTML / Java / Python
+Skills: C++ / NodeJS/JS / HTML / Java / Python
 
 - 🔭 I’m currently working on Menace & QCXR 
 - 🌱 I’m currently learning Java 
