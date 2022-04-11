@@ -1,4 +1,4 @@
-### Hi there 👋, Hey there, I'm CADIndie!
+### Hi there 👋, I'm CADIndie!
 #### Just another dev doing dev stuff 
 
 Skills: Electron JS/ C# / JS / HTML / Java / Python
