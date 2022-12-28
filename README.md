@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm CADIndie!
 #### Just another dev doing dev stuff 
 
-Skills: C++ / NodeJS/JS / HTML / Java / Python
+Skills: C++ / NodeJS/JS / C# / Java / Python / Rust
 
 - 🔭 I’m currently working on Menace & QCXR 
 - 🌱 I’m currently learning C++
