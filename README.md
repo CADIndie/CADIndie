@@ -7,7 +7,7 @@ Skills: C++ / NodeJS/JS / C# / Java / Python / Rust
 - 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with C++ 
 - 💬 Ask me about My favorite project 
-- 📫 How to reach me: Discord @CADIndie#7306 
+- 📫 How to reach me: Discord @CADIndie
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I have a LOT of connections ;) 
 
