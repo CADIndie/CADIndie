@@ -6,7 +6,7 @@ Skills: C++ / NodeJS/JS / C# / Java / Python / Rust
 - 🔭 I’m currently working on QuestCraft & AniHub
 - 🌱 I’m currently learning C  
 - 📫 How to reach me: Discord @CADIndie
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him | She/Her
 - ⚡ Fun fact: I have a LOT of connections ;) 
 
 
