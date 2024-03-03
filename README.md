@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm CADIndie!
 #### Just another dev doing dev stuff 
 
-Skills: C++ / NodeJS/JS / C# / Java / Python / Rust
+Skills: C++ / JavaScript / C# / Java / Python / Rust
 
 - 🔭 I’m currently working on QuestCraft & AniHub
 - 🌱 I’m currently learning C  
